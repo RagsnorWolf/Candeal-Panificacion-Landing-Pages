@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /404.html
-
-Sitemap: https://candeal.com.ar/sitemap.xml
