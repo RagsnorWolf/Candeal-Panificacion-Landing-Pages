@@ -1,0 +1,14 @@
+{
+  "name": "Candeal Panificación · Cafetería",
+  "short_name": "Candeal",
+  "description": "Pan artesanal, pastelería de manteca y café en Dorrego, Guaymallén.",
+  "lang": "es-AR",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#2b221c",
+  "theme_color": "#2b221c",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
